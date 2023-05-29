@@ -1,0 +1,26 @@
+
+.navbar .collapse.navbar-collapse {
+   background-color: white;
+   flex-grow: inherit;
+   font-size: 18px;
+   color: black;
+  
+}
+
+.pie {
+    margin-top: 10px;
+}
+
+.carrousel{
+    width: 800px;
+    height: 200px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+  
+}
+
+.navbar a{
+    color: black;
+}
