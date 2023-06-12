@@ -1,0 +1,33 @@
+#body {
+  background-color: aqua;
+}
+
+#footer {
+  background-color: yellow;
+}
+
+.navbar .collapse.navbar-collapse {
+  background-color: white;
+  flex-grow: inherit;
+  font-size: 18px;
+  color: black;
+}
+
+.pie {
+  margin-top: 10px;
+}
+
+.Carrousweel {
+  width: auto;
+  height: 200px;
+}
+
+.navbar-brand {
+  font-size: 50px;
+}
+
+.navbar a {
+  color: black;
+} 
+
+/*# sourceMappingURL=styles.css.map */
